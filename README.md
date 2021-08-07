@@ -1,4 +1,4 @@
-<img align="center" height="250" width="475" alt="" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none" />
+<img align="center"  alt="" src="https://arpanneupane.com/static/media/home-gif.3693311f.gif" />
 
 
 ### Connect with me:
